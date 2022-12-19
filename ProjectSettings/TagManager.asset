@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Enemies
+  - Player
+  - end
+  - boss
   - 
   - 
   - 
@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: sky
+    uniqueID: 1973937845
+    locked: 0
+  - name: Mike
+    uniqueID: 3065150189
+    locked: 0
+  - name: Background 1
+    uniqueID: 3522585299
+    locked: 0
+  - name: Background2
+    uniqueID: 300150909
+    locked: 0
+  - name: snow
+    uniqueID: 3794063167
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
